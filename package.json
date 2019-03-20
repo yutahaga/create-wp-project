@@ -1,0 +1,19 @@
+{
+  "name": "@yutahaga/create-wp-project",
+  "version": "0.0.1",
+  "bin": "./bin/create-wp-project.js",
+  "author": "Yuta Haga <yutahaga7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "compare-versions": "^3.4.0",
+    "download": "^7.1.0",
+    "fs-extra": "^7.0.1",
+    "inquirer": "^6.2.2",
+    "node-fetch": "^2.3.0",
+    "ora": "^3.2.0",
+    "spawn-promise": "^0.1.8",
+    "wp-salts": "^0.1.1",
+    "yargs": "^13.2.2"
+  }
+}
