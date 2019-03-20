@@ -1,6 +1,6 @@
 {
   "name": "@yutahaga/create-wp-project",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "bin": "./bin/create-wp-project.js",
   "author": "Yuta Haga <yutahaga7@gmail.com>",
   "license": "MIT",
